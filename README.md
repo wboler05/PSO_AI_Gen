@@ -17,7 +17,7 @@ The implementation is structured for clarity, with separate modules for the core
 
 1.  **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/pso-library.git
+    git clone https://github.com/wboler05/PSO_AI_Gen.git
     cd pso-library
     ```
 2.  **Create and activate the Conda environment**:
